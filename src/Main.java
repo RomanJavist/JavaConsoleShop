@@ -12,6 +12,7 @@ public class Main {
         Product product2 = new Product(2, "Стол", "Серый", 7000);
         Product product3 = new Product(3, "Кресло", "Коричневый", 5000);
         Product product4 = new Product(4, "Утюг", "Белый", 3000);
+        Product product5 = new Product(4, "Утюг", "Белый", 3000);
 
         List<Product> productList = new ArrayList<>();
 
